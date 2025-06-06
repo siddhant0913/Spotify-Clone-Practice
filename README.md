@@ -1,4 +1,5 @@
-**🎵 Spotify Clone 🎧**  
+# 🎵 Spotify Clone 🎧
+
 A **simple and responsive Spotify Clone** that demonstrates the use of **HTML** and **CSS fundamentals**. This project was built during my learning journey with the **Delta Batch of Apna College** by Shraddha Khapra.  
 
 ### 🔑 **Key Highlights**:  
